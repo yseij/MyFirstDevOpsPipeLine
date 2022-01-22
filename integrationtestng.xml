@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+	<test name="Tests">
+		<classes>
+		<class name="com.intebral.Tests.IntegrationTest"/>
+<!-- 			<class name="com.eduapp.test.ChromeTest" />
+			<class name="com.eduapp.test.FirefoxTest"/> -->
+			<class name="com.eduapp.test.TestGridIntegration"/>
+		</classes>
+	</test>
+</suite>
